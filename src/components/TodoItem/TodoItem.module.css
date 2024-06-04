@@ -1,0 +1,16 @@
+.todoItem {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.todoText {
+  margin-left: 0.5rem;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #888;
+}
